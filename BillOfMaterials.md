@@ -4,6 +4,7 @@
  |----|----------|-----|-----|
 |Bearing|1|$1.50|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
 |AS5048 Encoder|1|$4.47|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
-|Total: |2|$5.97| |
+|M4 x 20mm Bolt|1|$0.12|https://www.mcmaster.com/91239a152|
+|Total: |3|$6.09| |
 
- 3xCOG MSRP: $17.91
+ 3xCOG MSRP: $18.27
