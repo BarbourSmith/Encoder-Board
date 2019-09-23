@@ -2,12 +2,12 @@
     "molecules": [
         {
             "atomType": "Molecule",
-            "name": "Encoder Board",
-            "x": 0,
-            "y": 0,
-            "uniqueID": 369683,
+            "name": "Board",
+            "x": 123,
+            "y": 47,
+            "uniqueID": 711345,
             "ioValues": [],
-            "topLevel": true,
+            "topLevel": false,
             "allAtoms": [
                 {
                     "atomType": "Output",
@@ -18,6 +18,222 @@
                 }
             ],
             "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Molecule",
+            "x": 103,
+            "y": 147,
+            "uniqueID": 139892,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "PCB",
+            "x": 59,
+            "y": 41,
+            "uniqueID": 530792,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "Board",
+                    "x": 123,
+                    "y": 47,
+                    "uniqueID": 711345,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Molecule",
+                    "x": 103,
+                    "y": 147,
+                    "uniqueID": 139892,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Bolts",
+            "x": 54,
+            "y": 97,
+            "uniqueID": 290934,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Bearing",
+            "x": 57,
+            "y": 158,
+            "uniqueID": 992250,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Skateboard Bearing",
+                    "x": 168,
+                    "y": 163,
+                    "uniqueID": 628687,
+                    "projectID": "197579076",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Rotate",
+                    "name": "Rotate",
+                    "x": 416,
+                    "y": 170,
+                    "uniqueID": 736855,
+                    "ioValues": [
+                        {
+                            "name": "x-axis degrees",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "y-axis degrees",
+                            "ioValue": 180
+                        },
+                        {
+                            "name": "z-axis degrees",
+                            "ioValue": 0
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 628687,
+                    "ap2ID": 736855
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 736855
+                }
+            ],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Encoder Board",
+            "x": 0,
+            "y": 0,
+            "uniqueID": 369683,
+            "ioValues": [],
+            "topLevel": true,
+            "allAtoms": [
+                {
+                    "atomType": "Molecule",
+                    "name": "PCB",
+                    "x": 59,
+                    "y": 41,
+                    "uniqueID": 530792,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Bolts",
+                    "x": 54,
+                    "y": 97,
+                    "uniqueID": 290934,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Molecule",
+                    "name": "Bearing",
+                    "x": 57,
+                    "y": 158,
+                    "uniqueID": 992250,
+                    "ioValues": []
+                },
+                {
+                    "atomType": "Assembly",
+                    "name": "Assembly",
+                    "x": 420,
+                    "y": 150,
+                    "uniqueID": 653321,
+                    "ioValues": [
+                        {
+                            "name": "3D shape 397405",
+                            "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 947644",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 397405",
+                            "ioValue": 10
+                        }
+                    ],
+                    "removeCutawayGeometry": true
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 1316,
+                    "y": 164,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 947644",
+                    "ap1ID": 992250,
+                    "ap2ID": 653321
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 653321
+                }
+            ],
             "fileTypeVersion": 1
         }
     ],
