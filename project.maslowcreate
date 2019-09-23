@@ -150,8 +150,8 @@
                 {
                     "atomType": "Rectangle",
                     "name": "Rectangle",
-                    "x": 96,
-                    "y": 236,
+                    "x": 94,
+                    "y": 241,
                     "uniqueID": 311478,
                     "ioValues": [
                         {
@@ -299,15 +299,15 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 757,
-                    "y": 225,
+                    "x": 755,
+                    "y": 215,
                     "uniqueID": 586126,
                     "ioValues": [],
                     "BOMitem": {
                         "BOMitemName": "JST XH 6 Connector",
                         "numberNeeded": 1,
-                        "costUSD": 0.4,
-                        "source": "www.example.com",
+                        "costUSD": 0.45,
+                        "source": "https://www.digikey.com/product-detail/en/jst-sales-america-inc/S6B-XH-SM4-TB-LF-SN/455-2264-2-ND/1651066",
                         "totalNeeded": 0
                     }
                 },
