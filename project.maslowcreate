@@ -278,23 +278,49 @@
             "allAtoms": [
                 {
                     "atomType": "GitHubMolecule",
+                    "name": "M4x20 Bolt",
+                    "x": 90,
+                    "y": 128,
+                    "uniqueID": 429865,
+                    "projectID": "198850770",
+                    "ioValues": []
+                },
+                {
+                    "atomType": "GitHubMolecule",
                     "name": "Pattern Rotate",
-                    "x": 424,
-                    "y": 143,
+                    "x": 329,
+                    "y": 148,
                     "uniqueID": 193502,
                     "projectID": "209943116",
                     "ioValues": [
                         {
-                            "name": "Geometry",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "Radius",
-                            "ioValue": 10
+                            "ioValue": 20
                         },
                         {
                             "name": "Number",
-                            "ioValue": 10
+                            "ioValue": 4
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 491,
+                    "y": 169,
+                    "uniqueID": 188136,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 1
                         }
                     ]
                 },
@@ -306,7 +332,25 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "Geometry",
+                    "ap1ID": 429865,
+                    "ap2ID": 193502
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 193502,
+                    "ap2ID": 188136
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap1ID": 188136
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
@@ -416,15 +460,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 230115",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 397405",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 947644",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 230115",
                             "ioValue": 10
                         }
                     ],
