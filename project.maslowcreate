@@ -323,6 +323,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 366975",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 366889",
                             "ioValue": 10
                         },
@@ -332,10 +336,6 @@
                         },
                         {
                             "name": "3D shape 482716",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 366975",
                             "ioValue": 10
                         }
                     ],
@@ -433,8 +433,8 @@
         {
             "atomType": "Molecule",
             "name": "PCB",
-            "x": 55,
-            "y": 38,
+            "x": 78,
+            "y": 57,
             "uniqueID": 530792,
             "ioValues": [],
             "topLevel": false,
@@ -513,8 +513,8 @@
         {
             "atomType": "Molecule",
             "name": "Bolts",
-            "x": 54,
-            "y": 97,
+            "x": 83,
+            "y": 237,
             "uniqueID": 290934,
             "ioValues": [],
             "topLevel": false,
@@ -570,15 +570,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 538596",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 555896",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 892741",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 538596",
                             "ioValue": 10
                         }
                     ],
@@ -699,68 +699,6 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Bearing",
-            "x": 57,
-            "y": 158,
-            "uniqueID": 992250,
-            "ioValues": [],
-            "topLevel": false,
-            "allAtoms": [
-                {
-                    "atomType": "GitHubMolecule",
-                    "name": "Skateboard Bearing",
-                    "x": 168,
-                    "y": 163,
-                    "uniqueID": 628687,
-                    "projectID": "197579076",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 474,
-                    "y": 155,
-                    "uniqueID": 462396,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -9
-                        }
-                    ]
-                },
-                {
-                    "atomType": "Output",
-                    "name": "Output",
-                    "x": 1316,
-                    "y": 164,
-                    "ioValues": []
-                }
-            ],
-            "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 628687,
-                    "ap2ID": 462396
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "number or geometry",
-                    "ap1ID": 462396
-                }
-            ],
-            "fileTypeVersion": 1
-        },
-        {
-            "atomType": "Molecule",
             "name": "Encoder Board",
             "x": 0,
             "y": 0,
@@ -771,36 +709,28 @@
                 {
                     "atomType": "Molecule",
                     "name": "PCB",
-                    "x": 55,
-                    "y": 38,
+                    "x": 78,
+                    "y": 57,
                     "uniqueID": 530792,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Bolts",
-                    "x": 54,
-                    "y": 97,
+                    "x": 83,
+                    "y": 237,
                     "uniqueID": 290934,
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Molecule",
-                    "name": "Bearing",
-                    "x": 57,
-                    "y": 158,
-                    "uniqueID": 992250,
                     "ioValues": []
                 },
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 420,
-                    "y": 150,
+                    "x": 447,
+                    "y": 126,
                     "uniqueID": 653321,
                     "ioValues": [
                         {
-                            "name": "3D shape 775369",
+                            "name": "3D shape 947644",
                             "ioValue": ""
                         },
                         {
@@ -813,10 +743,6 @@
                         },
                         {
                             "name": "3D shape 426915",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 775369",
                             "ioValue": 10
                         }
                     ],
@@ -841,12 +767,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 426915",
                     "ap1ID": 290934,
-                    "ap2ID": 653321
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 947644",
-                    "ap1ID": 992250,
                     "ap2ID": 653321
                 },
                 {
