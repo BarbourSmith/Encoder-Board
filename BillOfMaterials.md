@@ -3,6 +3,7 @@
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
 |Bearing|1|$1.50|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
-|Total: |1|$1.50| |
+|AS5048 Encoder|1|$4.47|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
+|Total: |2|$5.97| |
 
- 3xCOG MSRP: $4.50
+ 3xCOG MSRP: $17.91

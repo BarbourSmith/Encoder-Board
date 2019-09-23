@@ -224,15 +224,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 105535",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 991125",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 962144",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 105535",
                             "ioValue": 10
                         }
                     ],
@@ -276,6 +276,28 @@
             "ioValues": [],
             "topLevel": false,
             "allAtoms": [
+                {
+                    "atomType": "GitHubMolecule",
+                    "name": "Pattern Rotate",
+                    "x": 424,
+                    "y": 143,
+                    "uniqueID": 193502,
+                    "projectID": "209943116",
+                    "ioValues": [
+                        {
+                            "name": "Geometry",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Radius",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "Number",
+                            "ioValue": 10
+                        }
+                    ]
+                },
                 {
                     "atomType": "Output",
                     "name": "Output",
@@ -390,15 +412,19 @@
                     "uniqueID": 653321,
                     "ioValues": [
                         {
-                            "name": "3D shape 397405",
+                            "name": "3D shape 230115",
                             "ioValue": ""
+                        },
+                        {
+                            "name": "3D shape 397405",
+                            "ioValue": 10
                         },
                         {
                             "name": "3D shape 947644",
                             "ioValue": 10
                         },
                         {
-                            "name": "3D shape 397405",
+                            "name": "3D shape 230115",
                             "ioValue": 10
                         }
                     ],
@@ -413,6 +439,12 @@
                 }
             ],
             "allConnectors": [
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 397405",
+                    "ap1ID": 530792,
+                    "ap2ID": 653321
+                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 947644",
