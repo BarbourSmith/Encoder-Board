@@ -4,6 +4,8 @@
  |----|----------|-----|-----|
 |Bearing|1|$1.50|https://www.amazon.com/RollerBones-Bones-Roller-Bearings/dp/B0094J6GQ0|
 |AS5048 Encoder|1|$4.47|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
-|Total: |2|$5.97| |
+|100nf 10uf Filter Caps|1|$0.10|www.digikey.com|
+|JST XH 6 Connector|1|$0.40|www.example.com|
+|Total: |4|$6.47| |
 
- 3xCOG MSRP: $17.91
+ 3xCOG MSRP: $19.41
