@@ -152,7 +152,7 @@
                     "y": 53,
                     "uniqueID": 722686,
                     "ioValues": [],
-                    "selectedColorIndex": "6"
+                    "selectedColorIndex": "7"
                 },
                 {
                     "atomType": "Extrude",
@@ -226,7 +226,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -527,8 +527,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 998,
-                    "y": 145,
+                    "x": 950,
+                    "y": 131,
                     "uniqueID": 867197,
                     "ioValues": [
                         {
@@ -555,10 +555,19 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 1151,
+                    "y": 137,
+                    "uniqueID": 457767,
+                    "ioValues": [],
+                    "selectedColorIndex": "11"
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -637,8 +646,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 867197,
+                    "ap2ID": 457767
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 867197
+                    "ap1ID": 457767
                 }
             ],
             "fileTypeVersion": 1
@@ -698,7 +713,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -919,7 +934,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -1109,7 +1124,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
