@@ -123,14 +123,6 @@
                     "uniqueID": 503247,
                     "ioValues": [
                         {
-                            "name": "3D shape 681259",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 681259",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 192163",
                             "ioValue": 10
                         },
@@ -203,14 +195,6 @@
                     "y": 122,
                     "uniqueID": 887331,
                     "ioValues": [
-                        {
-                            "name": "3D shape 860806",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 860806",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 102828",
                             "ioValue": 10
@@ -532,14 +516,6 @@
                     "uniqueID": 867197,
                     "ioValues": [
                         {
-                            "name": "3D shape 366975",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 366975",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 366889",
                             "ioValue": 10
                         },
@@ -691,14 +667,6 @@
                     "uniqueID": 905889,
                     "ioValues": [
                         {
-                            "name": "3D shape 105535",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 105535",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 991125",
                             "ioValue": 10
                         },
@@ -768,18 +736,10 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 284,
-                    "y": 117,
+                    "x": 285,
+                    "y": 112,
                     "uniqueID": 536998,
                     "ioValues": [
-                        {
-                            "name": "3D shape 538596",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 538596",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 555896",
                             "ioValue": 10
@@ -808,7 +768,7 @@
                         },
                         {
                             "name": "zDist",
-                            "ioValue": -18
+                            "ioValue": -20
                         }
                     ]
                 },
@@ -903,14 +863,6 @@
                     "y": 157,
                     "uniqueID": 340366,
                     "ioValues": [
-                        {
-                            "name": "3D shape 732417",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 732417",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 138211",
                             "ioValue": 10
@@ -1076,14 +1028,6 @@
                     "uniqueID": 653321,
                     "ioValues": [
                         {
-                            "name": "3D shape 947644",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 947644",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 755853",
                             "ioValue": 10
                         },
@@ -1101,14 +1045,6 @@
                     "y": 217,
                     "uniqueID": 432118,
                     "ioValues": [
-                        {
-                            "name": "3D shape 564889",
-                            "ioValue": ""
-                        },
-                        {
-                            "name": "3D shape 564889",
-                            "ioValue": 10
-                        },
                         {
                             "name": "3D shape 483067",
                             "ioValue": 10
