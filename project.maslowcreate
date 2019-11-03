@@ -210,7 +210,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 156.5,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -543,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 156.5,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -681,7 +681,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 156.5,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -886,7 +886,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 156.5,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -1000,6 +1000,10 @@
                         {
                             "name": "3D shape 755853",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 928185",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -1017,6 +1021,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 755853",
                     "ap1ID": 530792,
+                    "ap2ID": 653321
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 928185",
+                    "ap1ID": 290934,
                     "ap2ID": 653321
                 },
                 {
