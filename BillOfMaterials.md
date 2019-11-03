@@ -2,11 +2,8 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|AS5048 Encoder|1|$4.47|https://www.digikey.com/product-detail/en/ams/AS5048A-HTSP-500/AS5048A-HTSP-500TR-ND/3188615|
-|JST XH 6 Connector|1|$0.45|https://www.digikey.com/product-detail/en/jst-sales-america-inc/S6B-XH-SM4-TB-LF-SN/455-2264-2-ND/1651066|
 |M4 x 20mm Bolt|1|$0.12|https://www.mcmaster.com/91239a152|
 |M4 Locknut|1|$0.12|https://www.mcmaster.com/94645a101|
-|100nf 10uf Filter Caps|1|$0.10|www.digikey.com|
-|Total: |5|$5.26| |
+|Total: |2|$0.24| |
 
- 3xCOG MSRP: $15.77
+ 3xCOG MSRP: $0.71

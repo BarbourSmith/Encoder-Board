@@ -210,7 +210,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 155,
                     "ioValues": []
                 }
             ],
@@ -543,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 155,
                     "ioValues": []
                 }
             ],
@@ -669,10 +669,6 @@
                         {
                             "name": "3D shape 991125",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 962144",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -681,7 +677,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 155,
                     "ioValues": []
                 }
             ],
@@ -690,12 +686,6 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 991125",
                     "ap1ID": 711345,
-                    "ap2ID": 905889
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 962144",
-                    "ap1ID": 139892,
                     "ap2ID": 905889
                 },
                 {
@@ -874,7 +864,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 155,
                     "ioValues": []
                 }
             ],
@@ -982,7 +972,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 155,
                     "ioValues": []
                 }
             ],
