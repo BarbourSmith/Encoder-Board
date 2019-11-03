@@ -210,7 +210,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 157,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -543,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 157,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -681,7 +681,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 157,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -886,7 +886,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 157,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -998,10 +998,6 @@
                     "uniqueID": 653321,
                     "ioValues": [
                         {
-                            "name": "3D shape 755853",
-                            "ioValue": 10
-                        },
-                        {
                             "name": "3D shape 928185",
                             "ioValue": 10
                         }
@@ -1012,17 +1008,11 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 157,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
             "allConnectors": [
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 755853",
-                    "ap1ID": 530792,
-                    "ap2ID": 653321
-                },
                 {
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 928185",
