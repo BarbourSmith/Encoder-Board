@@ -2,8 +2,8 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|M4 x 20mm Bolt|1|$0.12|https://www.mcmaster.com/91239a152|
-|M4 Locknut|1|$0.12|https://www.mcmaster.com/94645a101|
-|Total: |2|$0.24| |
+|M4 x 20mm Bolt|4|$0.48|https://www.mcmaster.com/91239a152|
+|M4 Locknut|4|$0.47|https://www.mcmaster.com/94645a101|
+|Total: |8|$0.94| |
 
- 3xCOG MSRP: $0.71
+ 3xCOG MSRP: $2.82

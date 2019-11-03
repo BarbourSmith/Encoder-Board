@@ -210,7 +210,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155,
+                    "y": 154,
                     "ioValues": []
                 }
             ],
@@ -543,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155,
+                    "y": 154,
                     "ioValues": []
                 }
             ],
@@ -677,7 +677,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155,
+                    "y": 154,
                     "ioValues": []
                 }
             ],
@@ -856,6 +856,18 @@
                         {
                             "name": "3D shape 138211",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 225413",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 540949",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 733649",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -864,7 +876,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155,
+                    "y": 154,
                     "ioValues": []
                 }
             ],
@@ -910,6 +922,24 @@
                     "ap2Name": "3D shape 555896",
                     "ap1ID": 164896,
                     "ap2ID": 536998
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 733649",
+                    "ap1ID": 123577,
+                    "ap2ID": 340366
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 540949",
+                    "ap1ID": 940413,
+                    "ap2ID": 340366
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "3D shape 225413",
+                    "ap1ID": 443823,
+                    "ap2ID": 340366
                 },
                 {
                     "ap1Name": "geometry",
@@ -972,7 +1002,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 155,
+                    "y": 154,
                     "ioValues": []
                 }
             ],
