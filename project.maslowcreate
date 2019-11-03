@@ -866,18 +866,6 @@
                         {
                             "name": "3D shape 138211",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 313487",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 507862",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 184105",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -932,24 +920,6 @@
                     "ap2Name": "3D shape 555896",
                     "ap1ID": 164896,
                     "ap2ID": 536998
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 184105",
-                    "ap1ID": 123577,
-                    "ap2ID": 340366
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 507862",
-                    "ap1ID": 940413,
-                    "ap2ID": 340366
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 313487",
-                    "ap1ID": 443823,
-                    "ap2ID": 340366
                 },
                 {
                     "ap1Name": "geometry",
