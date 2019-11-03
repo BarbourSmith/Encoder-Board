@@ -637,8 +637,8 @@
         {
             "atomType": "Molecule",
             "name": "PCB",
-            "x": 78,
-            "y": 57,
+            "x": 79,
+            "y": 58,
             "uniqueID": 530792,
             "ioValues": [],
             "topLevel": false,
@@ -669,6 +669,10 @@
                         {
                             "name": "3D shape 991125",
                             "ioValue": 10
+                        },
+                        {
+                            "name": "3D shape 897765",
+                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -686,6 +690,12 @@
                     "ap1Name": "Geometry",
                     "ap2Name": "3D shape 991125",
                     "ap1ID": 711345,
+                    "ap2ID": 905889
+                },
+                {
+                    "ap1Name": "Geometry",
+                    "ap2Name": "3D shape 897765",
+                    "ap1ID": 139892,
                     "ap2ID": 905889
                 },
                 {
@@ -967,8 +977,8 @@
                 {
                     "atomType": "Molecule",
                     "name": "PCB",
-                    "x": 78,
-                    "y": 57,
+                    "x": 79,
+                    "y": 58,
                     "uniqueID": 530792,
                     "ioValues": []
                 },
