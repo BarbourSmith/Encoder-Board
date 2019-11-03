@@ -210,7 +210,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 156.5,
                     "ioValues": []
                 }
             ],
@@ -543,7 +543,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 156.5,
                     "ioValues": []
                 }
             ],
@@ -681,7 +681,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 156.5,
                     "ioValues": []
                 }
             ],
@@ -886,7 +886,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 156.5,
                     "ioValues": []
                 }
             ],
@@ -991,36 +991,6 @@
                     "ioValues": []
                 },
                 {
-                    "atomType": "GitHubMolecule",
-                    "name": "Skateboard Bearing",
-                    "x": 132,
-                    "y": 236,
-                    "uniqueID": 812564,
-                    "projectID": "197579076",
-                    "ioValues": []
-                },
-                {
-                    "atomType": "Translate",
-                    "name": "Translate",
-                    "x": 350,
-                    "y": 231,
-                    "uniqueID": 365763,
-                    "ioValues": [
-                        {
-                            "name": "xDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "yDist",
-                            "ioValue": 0
-                        },
-                        {
-                            "name": "zDist",
-                            "ioValue": -9
-                        }
-                    ]
-                },
-                {
                     "atomType": "Assembly",
                     "name": "Assembly",
                     "x": 447,
@@ -1030,28 +1000,6 @@
                         {
                             "name": "3D shape 755853",
                             "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 426915",
-                            "ioValue": 10
-                        }
-                    ],
-                    "removeCutawayGeometry": true
-                },
-                {
-                    "atomType": "Assembly",
-                    "name": "Assembly",
-                    "x": 535,
-                    "y": 217,
-                    "uniqueID": 432118,
-                    "ioValues": [
-                        {
-                            "name": "3D shape 483067",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 738325",
-                            "ioValue": 10
                         }
                     ],
                     "removeCutawayGeometry": true
@@ -1060,7 +1008,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 163.5,
+                    "y": 157,
                     "ioValues": []
                 }
             ],
@@ -1072,33 +1020,9 @@
                     "ap2ID": 653321
                 },
                 {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "3D shape 426915",
-                    "ap1ID": 290934,
-                    "ap2ID": 653321
-                },
-                {
-                    "ap1Name": "Geometry",
-                    "ap2Name": "geometry",
-                    "ap1ID": 812564,
-                    "ap2ID": 365763
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 483067",
-                    "ap1ID": 365763,
-                    "ap2ID": 432118
-                },
-                {
                     "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
                     "ap1ID": 653321
-                },
-                {
-                    "ap1Name": "geometry",
-                    "ap2Name": "3D shape 738325",
-                    "ap1ID": 653321,
-                    "ap2ID": 432118
                 }
             ],
             "fileTypeVersion": 1
