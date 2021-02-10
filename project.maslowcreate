@@ -569,6 +569,14 @@
             "x": 0.9816983894582724,
             "y": 0.4904214559386973,
             "ioValues": []
+        },
+        {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.7796486090775988,
+            "y": 0.7892720306513409,
+            "uniqueID": 295429,
+            "ioValues": []
         }
     ],
     "allConnectors": [
@@ -593,6 +601,7 @@
             "ap1ID": 999369,
             "ap2ID": 414072
         },
+        null,
         {
             "ap1Name": "geometry",
             "ap2Name": "number or geometry",
