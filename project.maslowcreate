@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "Outline",
-            "x": 0.20937042459736457,
-            "y": 0.367816091954023,
+            "x": 0.20790629575402636,
+            "y": 0.37164750957854403,
             "uniqueID": 448096,
             "ioValues": [],
             "topLevel": false,
@@ -38,11 +38,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 16
+                            "ioValue": 7
                         },
                         {
                             "name": "yDist",
-                            "ioValue": 7
+                            "ioValue": 16
                         },
                         {
                             "name": "zDist",
@@ -102,11 +102,11 @@
                     "ioValues": [
                         {
                             "name": "xDist",
-                            "ioValue": 16
+                            "ioValue": -7
                         },
                         {
                             "name": "yDist",
-                            "ioValue": -7
+                            "ioValue": 16
                         },
                         {
                             "name": "zDist",
@@ -126,6 +126,15 @@
                             "ioValue": 1
                         }
                     ]
+                },
+                {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 0.7811127379209369,
+                    "y": 0.5900383141762452,
+                    "uniqueID": 578972,
+                    "ioValues": [],
+                    "selectedColorIndex": "7"
                 },
                 {
                     "atomType": "Output",
@@ -177,6 +186,19 @@
                     "ap2Primary": false,
                     "ap1ID": 614518,
                     "ap2ID": 979375
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 402855,
+                    "ap2ID": 578972
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 578972
                 }
             ],
             "fileTypeVersion": 1
@@ -184,8 +206,8 @@
         {
             "atomType": "Rotate",
             "name": "Rotate",
-            "x": 0.23133235724743778,
-            "y": 0.7318007662835249,
+            "x": 0.2320644216691069,
+            "y": 0.7279693486590038,
             "uniqueID": 531292,
             "ioValues": [
                 {
@@ -198,7 +220,24 @@
                 },
                 {
                     "name": "z-axis degrees",
-                    "ioValue": 0
+                    "ioValue": 180
+                }
+            ]
+        },
+        {
+            "atomType": "Assembly",
+            "name": "Assembly",
+            "x": 0.5146412884333822,
+            "y": 0.5862068965517242,
+            "uniqueID": 414072,
+            "ioValues": [
+                {
+                    "name": "3D shape 1",
+                    "ioValue": 10
+                },
+                {
+                    "name": "3D shape 2",
+                    "ioValue": 10
                 }
             ]
         },
@@ -242,6 +281,13 @@
     ],
     "allConnectors": [
         {
+            "ap1Name": "Geometry",
+            "ap2Name": "3D shape 1",
+            "ap2Primary": false,
+            "ap1ID": 448096,
+            "ap2ID": 414072
+        },
+        {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
@@ -254,6 +300,13 @@
             "ap2Primary": true,
             "ap1ID": 541714,
             "ap2ID": 531292
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 130625,
+            "ap2ID": 414072
         }
     ],
     "fileTypeVersion": 1,
