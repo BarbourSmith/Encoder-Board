@@ -427,11 +427,24 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 10
+                            "ioValue": 1.5
                         },
                         {
                             "name": "y length",
-                            "ioValue": 10
+                            "ioValue": 5
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Extrude",
+                    "name": "Extrude",
+                    "x": 0.2752562225475842,
+                    "y": 0.5823754789272031,
+                    "uniqueID": 866122,
+                    "ioValues": [
+                        {
+                            "name": "height",
+                            "ioValue": 6
                         }
                     ]
                 },
@@ -443,7 +456,15 @@
                     "ioValues": []
                 }
             ],
-            "allConnectors": [],
+            "allConnectors": [
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 814334,
+                    "ap2ID": 866122
+                }
+            ],
             "fileTypeVersion": 1
         },
         {
