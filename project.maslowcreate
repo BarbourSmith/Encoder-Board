@@ -545,17 +545,17 @@
         {
             "atomType": "Translate",
             "name": "Translate",
-            "x": 0.6237188872620791,
-            "y": 0.7739463601532567,
+            "x": 0.6251830161054173,
+            "y": 0.7701149425287357,
             "uniqueID": 257030,
             "ioValues": [
                 {
                     "name": "xDist",
-                    "ioValue": 10
+                    "ioValue": 12
                 },
                 {
                     "name": "yDist",
-                    "ioValue": -20
+                    "ioValue": -17
                 },
                 {
                     "name": "zDist",
