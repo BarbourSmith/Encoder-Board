@@ -9,6 +9,43 @@
     "allAtoms": [
         {
             "atomType": "Molecule",
+            "name": "JST XH Connector",
+            "x": 0.31259150805270863,
+            "y": 0.20689655172413796,
+            "uniqueID": 989106,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Rectangle",
+                    "name": "Rectangle",
+                    "x": 0.15446559297218154,
+                    "y": 0.5593869731800766,
+                    "uniqueID": 255735,
+                    "ioValues": [
+                        {
+                            "name": "x length",
+                            "ioValue": 10
+                        },
+                        {
+                            "name": "y length",
+                            "ioValue": 10
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Molecule",
             "name": "Outline",
             "x": 0.2027818448023426,
             "y": 0.35249042145593873,
@@ -232,7 +269,7 @@
             "ioValues": [
                 {
                     "name": "tag",
-                    "ioValue": "pcb"
+                    "ioValue": "PCB"
                 }
             ]
         },
@@ -303,6 +340,26 @@
                     "ioValue": 2
                 }
             ]
+        },
+        {
+            "atomType": "Molecule",
+            "name": "Motor Connector",
+            "x": 0.4751098096632504,
+            "y": 0.8505747126436781,
+            "uniqueID": 438952,
+            "ioValues": [],
+            "topLevel": false,
+            "allAtoms": [
+                {
+                    "atomType": "Output",
+                    "name": "Output",
+                    "x": 0.9853587115666179,
+                    "y": 0.5,
+                    "ioValues": []
+                }
+            ],
+            "allConnectors": [],
+            "fileTypeVersion": 1
         },
         {
             "atomType": "Output",
