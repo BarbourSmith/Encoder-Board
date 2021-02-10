@@ -410,10 +410,31 @@
             ]
         },
         {
+            "atomType": "Rotate",
+            "name": "Rotate",
+            "x": 0.5314787701317716,
+            "y": 0.7969348659003832,
+            "uniqueID": 956250,
+            "ioValues": [
+                {
+                    "name": "x-axis degrees",
+                    "ioValue": 0
+                },
+                {
+                    "name": "y-axis degrees",
+                    "ioValue": 0
+                },
+                {
+                    "name": "z-axis degrees",
+                    "ioValue": 45
+                }
+            ]
+        },
+        {
             "atomType": "Molecule",
             "name": "Motor Connector",
-            "x": 0.4751098096632504,
-            "y": 0.8505747126436781,
+            "x": 0.43850658857979496,
+            "y": 0.8620689655172414,
             "uniqueID": 438952,
             "ioValues": [],
             "topLevel": false,
@@ -449,6 +470,36 @@
                     ]
                 },
                 {
+                    "atomType": "Translate",
+                    "name": "Translate",
+                    "x": 0.445095168374817,
+                    "y": 0.5593869731800766,
+                    "uniqueID": 391044,
+                    "ioValues": [
+                        {
+                            "name": "xDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "yDist",
+                            "ioValue": 0
+                        },
+                        {
+                            "name": "zDist",
+                            "ioValue": 1
+                        }
+                    ]
+                },
+                {
+                    "atomType": "Color",
+                    "name": "Color",
+                    "x": 0.6076134699853587,
+                    "y": 0.5747126436781609,
+                    "uniqueID": 181343,
+                    "ioValues": [],
+                    "selectedColorIndex": "11"
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 0.9853587115666179,
@@ -463,9 +514,50 @@
                     "ap2Primary": true,
                     "ap1ID": 814334,
                     "ap2ID": 866122
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 866122,
+                    "ap2ID": 391044
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap2Primary": true,
+                    "ap1ID": 391044,
+                    "ap2ID": 181343
+                },
+                {
+                    "ap1Name": "geometry",
+                    "ap2Name": "number or geometry",
+                    "ap2Primary": false,
+                    "ap1ID": 181343
                 }
             ],
             "fileTypeVersion": 1
+        },
+        {
+            "atomType": "Translate",
+            "name": "Translate",
+            "x": 0.6178623718887262,
+            "y": 0.7892720306513409,
+            "uniqueID": 257030,
+            "ioValues": [
+                {
+                    "name": "xDist",
+                    "ioValue": -10
+                },
+                {
+                    "name": "yDist",
+                    "ioValue": -20
+                },
+                {
+                    "name": "zDist",
+                    "ioValue": 0
+                }
+            ]
         },
         {
             "atomType": "Output",
@@ -530,6 +622,20 @@
             "ap2Primary": false,
             "ap1ID": 130625,
             "ap2ID": 414072
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 956250,
+            "ap2ID": 257030
+        },
+        {
+            "ap1Name": "Geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 438952,
+            "ap2ID": 956250
         }
     ],
     "fileTypeVersion": 1,
