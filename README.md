@@ -4,39 +4,3 @@
 
 ![](/project.svg)
 
-## Encoder Board
-
-
-## PCB
-
-
-## Board
-
-
-## Outline
-
-
-## Maslow 4 Metal Arm Spacer
-
-
-## Outline
-
-
-## Cutaways
-
-
-## Slice
-
-
-## Components
-
-
-undefined
-
-
-undefined
-
-
-undefined
-
-
