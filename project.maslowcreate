@@ -94,7 +94,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": -3
+                            "ioValue": -3.5
                         }
                     ]
                 },
@@ -564,7 +564,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": -3
+                            "ioValue": -3.5
                         }
                     ]
                 },
