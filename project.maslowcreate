@@ -534,19 +534,6 @@
             ]
         },
         {
-            "atomType": "Svg",
-            "name": "Svg",
-            "x": 0.7657393850658858,
-            "y": 0.2213740458015267,
-            "uniqueID": 295429,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": "source/369683/882223ExtractTag"
-                }
-            ]
-        },
-        {
             "atomType": "Translate",
             "name": "Translate",
             "x": 0.37367724867724866,
@@ -582,6 +569,19 @@
             "simplify": false
         },
         {
+            "atomType": "Svg",
+            "name": "Svg",
+            "x": 0.8431535269709545,
+            "y": 0.3425925925925926,
+            "uniqueID": 295429,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "source/369683/882223ExtractTag"
+                }
+            ]
+        },
+        {
             "atomType": "Assembly",
             "name": "Assembly",
             "x": 0.7306666666666667,
@@ -614,19 +614,6 @@
                     "ioValue": "source/369683/414072Assembly"
                 }
             ]
-        },
-        {
-            "atomType": "Stl",
-            "name": "Stl",
-            "x": 0.8644179894179894,
-            "y": 0.7870370370370371,
-            "uniqueID": 246869,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": "source/369683/882223ExtractTag"
-                }
-            ]
         }
     ],
     "allConnectors": [
@@ -657,13 +644,6 @@
             "ap2Primary": false,
             "ap1ID": 882223,
             "ap2ID": 295429
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 882223,
-            "ap2ID": 246869
         },
         {
             "ap1Name": "Geometry",
