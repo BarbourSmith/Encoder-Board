@@ -201,8 +201,8 @@
         {
             "atomType": "Molecule",
             "name": "Outline",
-            "x": 0.2027818448023426,
-            "y": 0.35249042145593873,
+            "x": 0.2003968253968254,
+            "y": 0.36419753086419754,
             "uniqueID": 448096,
             "ioValues": [],
             "topLevel": false,
@@ -501,12 +501,37 @@
         {
             "atomType": "GitHubMolecule",
             "name": "Center Shaft Motor",
-            "x": 0.11309523809523808,
-            "y": 0.7314814814814815,
+            "x": 0.13955026455026454,
+            "y": 0.6975308641975309,
             "uniqueID": 693599,
             "projectID": "514133440",
             "ioValues": [],
             "simplify": false
+        },
+        {
+            "atomType": "Rotate",
+            "name": "Rotate",
+            "x": 0.2533068783068783,
+            "y": 0.7191358024691359,
+            "uniqueID": 531292,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "source/369683/693599GitHubMolecule"
+                },
+                {
+                    "name": "x-axis degrees",
+                    "ioValue": -90
+                },
+                {
+                    "name": "y-axis degrees",
+                    "ioValue": 0
+                },
+                {
+                    "name": "z-axis degrees",
+                    "ioValue": 225
+                }
+            ]
         },
         {
             "atomType": "Svg",
@@ -555,31 +580,6 @@
             "projectID": "197010572",
             "ioValues": [],
             "simplify": false
-        },
-        {
-            "atomType": "Rotate",
-            "name": "Rotate",
-            "x": 0.2566137566137566,
-            "y": 0.8734567901234569,
-            "uniqueID": 531292,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": "source/369683/693599GitHubMolecule"
-                },
-                {
-                    "name": "x-axis degrees",
-                    "ioValue": -90
-                },
-                {
-                    "name": "y-axis degrees",
-                    "ioValue": 0
-                },
-                {
-                    "name": "z-axis degrees",
-                    "ioValue": 180
-                }
-            ]
         },
         {
             "atomType": "Assembly",
@@ -654,17 +654,17 @@
         },
         {
             "ap1Name": "geometry",
-            "ap2Name": "3D shape 2",
-            "ap2Primary": false,
-            "ap1ID": 130625,
-            "ap2ID": 414072
-        },
-        {
-            "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 531292,
             "ap2ID": 130625
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "3D shape 2",
+            "ap2Primary": false,
+            "ap1ID": 130625,
+            "ap2ID": 414072
         },
         {
             "ap1Name": "geometry",
