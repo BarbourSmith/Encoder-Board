@@ -10,8 +10,8 @@
         {
             "atomType": "Molecule",
             "name": "JST XH Connector",
-            "x": 0.30044444444444446,
-            "y": 0.21374045801526717,
+            "x": 0.3029100529100529,
+            "y": 0.18518518518518517,
             "uniqueID": 989106,
             "ioValues": [],
             "topLevel": false,
